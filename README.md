@@ -1,2 +1,2 @@
 # qr-code-cmpnt
-first challenge from front end mentor, building a simple QR Code card with html &amp; css
+First challenge from frontendmentor.io, building a simple QR Code card with html &amp; css
