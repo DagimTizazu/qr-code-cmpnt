@@ -8,7 +8,7 @@ body {
 
 .container {
   margin: auto;
-  margin-top: 20px;
+  margin-top: 150px;
   padding: 13px;
   background-color: hsl(0, 0%, 100%);
   width: 250px;
@@ -25,14 +25,6 @@ img {
   text-align: center;
   margin: auto;
   padding: 0 7px;
-}
-
-.attribution {
-  font-size: 11px;
-  text-align: center;
-}
-.attribution a {
-  color: hsl(228, 45%, 44%);
 }
 
 h4.card-title, p.card-text {
